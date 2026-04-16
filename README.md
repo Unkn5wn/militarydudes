@@ -1,2 +1,0 @@
-# militarydudes
-A fun game
